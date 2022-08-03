@@ -4,8 +4,8 @@
 This is a tutor-student-classroom system developed using Node.js.
 There are two types of users in the system
 
--> Tutor 
--> Student
+1. Tutor
+2. Student
 
 Both the users have to register on the system.
 Tutors can create, update and delete classrooms and add students to the classroom.
